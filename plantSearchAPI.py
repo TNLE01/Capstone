@@ -3,7 +3,7 @@
 import requests
 import json
 
-API_KEY = '' # Add your API key here
+API_KEY = '' # Add your API key here https://my.plantnet.org/account/settings
 PROJECT = 'all'
 api_endpoint = f'https://my-api.plantnet.org/v2/identify/{PROJECT}?api-key={API_KEY}'
 
