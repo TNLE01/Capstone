@@ -1,7 +1,7 @@
 """
 Garden Helper
 Capstone Project
-Aurthor:
+Author:
     Truong Le
 
 This is the main file for the Garden Helper app. It is a GUI application that allows users to track their plants,

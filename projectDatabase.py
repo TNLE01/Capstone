@@ -5,7 +5,7 @@ import mysql.connector
 print("Connecting to the database...")
 connected = False
 try:
-    database = mysql.connector.connect(host = "localhost", user = "root", passwd = "0720Tl$$)!4401", database = "plantproject")
+    database = mysql.connector.connect(host = "localhost", user = "root", passwd = "pass", database = "plantproject")
     connected = True
     print("Connected to the database.")
     cursor = database.cursor()
