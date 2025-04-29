@@ -3,7 +3,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-  api_key = '' # Add your OpenAI API key here
+  api_key = '' # Add your OpenAI API key here https://platform.openai.com/api-keys
 )
 
 def AIHelp(question):
