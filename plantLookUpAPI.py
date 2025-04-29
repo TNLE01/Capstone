@@ -3,7 +3,7 @@
 import requests
 import json
 
-API_KEY = '' # Add your API key here
+API_KEY = '' # Add your API key here https://perenual.com/user/developer
 baseUrl = f'https://perenual.com/api/v2/'
 
 def plantLookUp(name):
